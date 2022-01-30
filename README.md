@@ -8,7 +8,7 @@
 
 Our traveler Monde from New York is an adventurer with all inhabitable locations on planet earth being his playground. He has decided to take a vacation and tour the land. His pet peeve is warm weather with location being no barrier. He sets of with identifying cities across the globe. He uses python to obtain a collection of cities as his potential destinations. He decides on a upper and lower boundary of latitudes and longitudes and then meticulously develops a list of cities which he compiles in "Weather_Database/WeatherPy_database.csv
 
-![weather-cities-with-lat-long](C:\Users\Exceed\Downloads\image_vacation-6\weather-cities-with-lat-long.PNG)
+![weather-cities-with-lat-long](image_vacation-6/weather-cities-with-lat-long.PNG)
 
 ## Vacation with a Hotel
 
@@ -16,17 +16,17 @@ However, not all locations have accommodations. Monde being the type who relies 
 
 His analysis is accurate and the sample of ten rows of data is displayed below.
 
-![vacation_search-hotels-df](C:\Users\Exceed\Downloads\image_vacation-6\vacation_search-hotels-df.PNG)
+![vacation_search-hotels-df](image_vacation-6/vacation_search-hotels-df.PNG)
 
 However it is time for Monde to have a visual display so he can point and click. He gmaps from google and plots a marker layer for each city with hotels as shown below. Our traveler has a choice of destinations as shown in the figure below for the temperatures in the range of 75 degrees to 90 degrees. This fig shows the detail.
 
-![all_potential_cities](C:\Users\Exceed\Downloads\image_vacation-6\all_potential_cities.PNG)
+![all_potential_cities](image_vacation-6/all_potential_cities.PNG)
 
 ## Vacation Itinerary
 
 As he scrolls and magnifies the map his attention is drawn towards the continent of Australia. He zeroes in on Australia, famous for its natural wonders, wide-open spaces, beaches, deserts, "The Bush", and "The Outback".  The cities of Carnarvon, Kununurra, Mackay, Broken Hill cover a good distance across Australia. See figure below. While it is an ambitious travel route it is accessible via driving, bicycling or walking. These are good options to provide a variety of travel modes between these destinations. Besides he is travelling light given the weather conditions in those cities. He has options being an avid hiker and a bicyclist. The cities listed below suit his spirit.
 
-![travel_route-australia](C:\Users\Exceed\Downloads\image_vacation-6\travel_route-australia.PNG)
+![travel_route-australia](image_vacation-6/travel_route-australia.PNG)
 
 
 
@@ -34,9 +34,9 @@ He knows this requires meticulous planning and advance reservations to the lodgi
 
 Given the information at hand, the traveler proceeds to reach out and reserve stays at these hotels.
 
-![dataframe_final_destinations](C:\Users\Exceed\Downloads\image_vacation-6\dataframe_final_destinations.PNG)
+![dataframe_final_destinations](image_vacation-6/dataframe_final_destinations.PNG)
 
-![final_destination-with-popups](C:\Users\Exceed\Downloads\image_vacation-6\final_destination-with-popups.PNG)
+![final_destination-with-popups](image_vacation-6/final_destination-with-popups.PNG)
 
 
 
